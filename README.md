@@ -52,14 +52,8 @@
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Set up environment variables**
-   ```bash
-   export GOOGLE_API_KEY="your-gemini-api-key-here"
-   # On Windows: set GOOGLE_API_KEY=your-gemini-api-key-here
-   ```
-
-5. **Launch the application**
+   
+4. **Launch the application**
    ```bash
    streamlit run app.py
    ```
