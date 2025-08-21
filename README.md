@@ -8,6 +8,8 @@
 
 > AI-powered stock market analysis and investment recommendations using Google's Gemini 2.5 Flash model.
 
+### Smarter investing starts here :👉 https://stock-market-insights---ai-agent.streamlit.app/
+
 ## 🚀 Features
 
 - **Multi-Agent Architecture**: Specialized AI agents for market analysis, company research, and investment strategy
